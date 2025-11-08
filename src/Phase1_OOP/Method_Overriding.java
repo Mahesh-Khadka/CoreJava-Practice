@@ -4,6 +4,7 @@ class Cricket{
         System.out.println("Virat is a king.");
     }
 }
+
 class India extends Cricket{
     void player(){
         super.player();
