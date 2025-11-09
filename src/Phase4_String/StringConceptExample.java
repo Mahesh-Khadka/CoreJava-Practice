@@ -6,6 +6,7 @@ public class StringConceptExample {
         String s2 = "MaHesh";
         System.out.println(s1 == s2);
         System.out.println(s1.equalsIgnoreCase(s2));
+        System.out.println(s1.length());
 
         String s3 = new String("Mahesh");
         String s4 = new String("Mahesh");
